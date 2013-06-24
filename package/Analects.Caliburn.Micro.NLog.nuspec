@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Analects.Caliburn.Micro.NLog</id>
+    <version>1.0.0</version>
+    <title>Analects.Caliburn.Micro.NLog</title>
+    <authors>distantcam</authors>
+    <owners>distantcam</owners>
+    <licenseUrl>http://opensource.org/licenses/mit-license.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Integrates NLog into Caliburn.Micro.</description>
+    <summary>Integration of Caliburn.Micro with NLog.</summary>
+    <tags>Caliburn.Micro NLog Logging MVVM</tags>
+    <dependencies>
+      <dependency id="Caliburn.Micro" />
+      <dependency id="NLog" />
+    </dependencies>
+  </metadata>
+</package>
